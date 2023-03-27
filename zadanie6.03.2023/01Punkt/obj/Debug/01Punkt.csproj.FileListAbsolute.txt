@@ -1,0 +1,8 @@
+C:\Users\zuzan\source\repos\zadanie6.03.2023\01Punkt\bin\Debug\01Punkt.exe.config
+C:\Users\zuzan\source\repos\zadanie6.03.2023\01Punkt\bin\Debug\01Punkt.exe
+C:\Users\zuzan\source\repos\zadanie6.03.2023\01Punkt\bin\Debug\01Punkt.pdb
+C:\Users\zuzan\source\repos\zadanie6.03.2023\01Punkt\obj\Debug\01Punkt.csproj.AssemblyReference.cache
+C:\Users\zuzan\source\repos\zadanie6.03.2023\01Punkt\obj\Debug\01Punkt.csproj.SuggestedBindingRedirects.cache
+C:\Users\zuzan\source\repos\zadanie6.03.2023\01Punkt\obj\Debug\01Punkt.csproj.CoreCompileInputs.cache
+C:\Users\zuzan\source\repos\zadanie6.03.2023\01Punkt\obj\Debug\01Punkt.exe
+C:\Users\zuzan\source\repos\zadanie6.03.2023\01Punkt\obj\Debug\01Punkt.pdb

@@ -1,0 +1,8 @@
+C:\Users\zuzan\source\repos\zadanie6.03.2023\02 Bank\bin\Debug\02 Bank.exe.config
+C:\Users\zuzan\source\repos\zadanie6.03.2023\02 Bank\bin\Debug\02 Bank.exe
+C:\Users\zuzan\source\repos\zadanie6.03.2023\02 Bank\bin\Debug\02 Bank.pdb
+C:\Users\zuzan\source\repos\zadanie6.03.2023\02 Bank\obj\Debug\02 Bank.csproj.AssemblyReference.cache
+C:\Users\zuzan\source\repos\zadanie6.03.2023\02 Bank\obj\Debug\02 Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\zuzan\source\repos\zadanie6.03.2023\02 Bank\obj\Debug\02 Bank.csproj.CoreCompileInputs.cache
+C:\Users\zuzan\source\repos\zadanie6.03.2023\02 Bank\obj\Debug\02 Bank.exe
+C:\Users\zuzan\source\repos\zadanie6.03.2023\02 Bank\obj\Debug\02 Bank.pdb
